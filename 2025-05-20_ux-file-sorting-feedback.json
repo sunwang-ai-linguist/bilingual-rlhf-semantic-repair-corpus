@@ -1,0 +1,17 @@
+{
+  "date": "2025-05-20",
+  "contributor": "sunwang",
+  "type": "UX workflow feedback",
+  "trigger_phrase": "There is only one more thing you need to do",
+  "context": "User experienced confusion when uploading files to Hugging Face. Despite expecting the most recently uploaded files to appear at the top of the file list, the interface placed them several lines down. This caused unnecessary verification cycles.",
+  "human_feedback": "I hold an MBA and am comfortable with lists and interface design principles. However, the file list on Hugging Face does not sort by most recent uploads first, which is counterintuitive. Even experienced users expect recent uploads to appear at the top. Every time I upload a file, I must visually scan the list or scroll, which adds unnecessary cognitive friction.",
+  "suggested_alternative": "Please reverse the file list display so the most recently uploaded files appear first. This reflects common human interface expectations (e.g., email inboxes, Google Drive). Even without implementing full-featured sorting or filtering, just reordering the list improves UX dramatically.",
+  "evidence_note": "This user consistently provides screenshots as visual evidence. The pattern of attaching proof via visuals suggests a UI-designer-like mental model, prioritizing visual clarity and interface logic.",
+  "tags": [
+    "UX improvement",
+    "file list sorting",
+    "RLHF",
+    "human-AI interface friction",
+    "visual verification"
+  ]
+}
