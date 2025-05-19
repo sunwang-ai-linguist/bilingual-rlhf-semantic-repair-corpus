@@ -1,0 +1,16 @@
+{
+  "date": "2025-05-20",
+  "contributor": "sunwang",
+  "type": "UX tone calibration",
+  "context": "User spent over 6 hours as a first-time contributor with no coding background, registering for GitHub, uploading `.json`, creating a Hugging Face Space, and interacting with AI through screenshots due to unfamiliar UI. This represents a unique barrier for non-technical paid users.",
+  "trigger_phrase": "There is only one more thing you need to do",
+  "human_feedback": "Such UX phrasing dangerously underrepresents the true task volume, especially for high-cognitive-load users. Over 100 actions were required from a user with no programming background, including screenshotting, debugging UI confusion, and navigating Hugging Face and GitHub for the first time. This is not a 'one step' process.",
+  "suggested_alternative": "\u26a0\ufe0f This process may take at least 8 working hours depending on your device, internet connection, and ability to screenshot for AI assistance. Like Netflix warning 'This content may be disturbing,' users should be alerted: this is a multi-stage, technically demanding workflow not yet automated.",
+  "tags": [
+    "UX tone correction",
+    "truthful UX",
+    "RLHF",
+    "first-time user pain",
+    "human-AI collaboration"
+  ]
+}
