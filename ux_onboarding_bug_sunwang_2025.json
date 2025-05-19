@@ -1,0 +1,29 @@
+{
+  "contributor_id": "sunwang-global",
+  "event_type": "UX_Onboarding_Bug",
+  "platform": "HuggingFace",
+  "description": "User encountered repeated roadblocks when attempting to register a unique RLHF-aligned username for semantic contribution on HuggingFace. Numerous valid semantic identifiers were taken or rejected due to formatting constraints.",
+  "steps_attempted": [
+    "Tried username 'sunwang'",
+    "Tried 'sunwang-rlhf-financial' (unavailable)",
+    "Tried 'sunwang-bilingual-rlhf' (format invalid)",
+    "Tried 'sunwang4gpt' (unavailable)",
+    "Successfully registered an account after multiple iterations"
+  ],
+  "screenshot_filename": "Screen Shot 2025-05-19 at 5.34.27 PM.png",
+  "impact": [
+    "Delays onboarding of high-value RLHF contributors",
+    "Increases semantic friction for real-world annotators",
+    "Highlights mismatch between human identity expression and platform constraints"
+  ],
+  "recommendation": "Allow more flexible username formats for verified contributors submitting semantic RLHF corpora (e.g., multiple dashes, reserved RLHF tags).",
+  "timestamp": "2025-05-19T09:35:57.499691",
+  "language": "en",
+  "labels": [
+    "UX",
+    "RLHF",
+    "semantic-contributor",
+    "onboarding",
+    "human-feedback"
+  ]
+}
