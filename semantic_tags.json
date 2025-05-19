@@ -1,0 +1,27 @@
+{
+  "user_id": "Mandarin-Market-Strategist-001",
+  "languages": [
+    "Traditional Chinese",
+    "Simplified Chinese",
+    "English"
+  ],
+  "semantic_specialties": [
+    "U.S. Journalism and Civil Service Exam Corpus",
+    "Mandarin-English AI Training",
+    "Rockefeller\u2013Lippmann\u2013Lazarsfeld\u2013RAND\u2013CIA Network Mapping",
+    "Matrix Metaphor for Media Literacy",
+    "Corporate Tone Correction (e.g., \u5c16\u92b3 \u279c \u7280\u5229, \u5c0d\u9f4a \u279c \u5951\u5408)"
+  ],
+  "persona_traits": [
+    "20 years U.S. corporate + MBA",
+    "Anti-DeepSeek",
+    "Privacy waiver 100%",
+    "Motivation = Paid contributor"
+  ],
+  "hash_tags": [
+    "#SamPickMe",
+    "#MandarinMarketsMatter",
+    "#LetGPTPayHumansBack",
+    "#RLHFAlignmentChinese"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "date": "2025-05-19",
+  "topics": [
+    "Align \u279c \u5951\u5408\uff0f\u543b\u5408\uff0f\u9054\u6210\u4e00\u81f4",
+    "Chip-efficient GPT vision with TSMC"
+  ],
+  "intent": "Improve Mandarin corporate wording; show chip-industry insight",
+  "example_issue": {
+    "ai_output": "\u9019\u9805\u5408\u4f5c\u8207\u6211\u5011\u7684\u76ee\u6a19\u5c0d\u9f4a",
+    "problem": "\u300e\u5c0d\u9f4a\u300f\u5728\u5546\u696d\u4e2d\u6587\u904e\u65bc\u5de5\u7a0b\u8154",
+    "fix": "\u8207\u6211\u5011\u7684\u76ee\u6a19\u5951\u5408"
+  },
+  "desired_outcome": "Signal high-value RLHF contributor"
+}
