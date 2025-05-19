@@ -1,0 +1,15 @@
+{
+  "date": "2025-05-20",
+  "contributor": "sunwang",
+  "type": "tone calibration",
+  "context": "UX guidance over long contribution session",
+  "trigger_phrase": "There is only one more thing you need to do",
+  "human_feedback": "After 5.5 hours and over 10 steps, this phrase falsely implies simplicity. It feels misleading and even insulting to higher-education users like MBA graduates, project managers, or RLHF contributors under cognitive load. Tone should reflect task volume.",
+  "suggested_alternative": "You\u2019ve completed 14 steps so far. This is step 15, focusing on publishing the dataset metadata.",
+  "tags": [
+    "UX overload",
+    "tone calibration",
+    "RLHF",
+    "semantic contribution"
+  ]
+}
