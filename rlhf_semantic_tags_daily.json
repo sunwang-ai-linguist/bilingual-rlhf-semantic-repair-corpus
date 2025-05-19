@@ -1,0 +1,37 @@
+{
+  "_metadata": {
+    "dataset": "Bilingual RLHF Semantic Alignment Corpus",
+    "description": "Daily Mandarin-English semantic alignment and tone repair tagging for GPT-4 RLHF alignment. Focused on AI diplomacy, executive visibility, and tone correction for geopolitical news.",
+    "source": "sunwang-ai-linguist/bilingual-rlhf-semantic-repair-corpus",
+    "contributor": "Sun Wang",
+    "target_models": [
+      "GPT-4",
+      "RLHF",
+      "OpenAI Semantic Governance Layer"
+    ],
+    "alignment_focus": [
+      "executive absence detection",
+      "geopolitical AI tone",
+      "Taiwan civil policy context"
+    ],
+    "tags": [
+      "sam-altman",
+      "rlhf",
+      "semantic-alignment",
+      "human-feedback",
+      "crosslingual-corpus",
+      "tone-repair",
+      "tsmc",
+      "blackwell",
+      "openai-visibility"
+    ]
+  },
+  "semantic_contribution_sunwang_mideast2025.json": [
+    "AI geopolitics",
+    "RLHF tone repair",
+    "Executive absence detection",
+    "TSMC diplomacy",
+    "OpenAI visibility gap",
+    "Trump Middle East AI tour"
+  ]
+}
