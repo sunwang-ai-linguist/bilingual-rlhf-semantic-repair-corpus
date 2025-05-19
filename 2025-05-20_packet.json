@@ -1,0 +1,19 @@
+{
+  "date": "2025-05-20",
+  "topics": [
+    "AI 記憶限制 vs Chat history 誤解",
+    "AI 不是 Google：不保存 cookie 搜尋紀錄",
+    "語義模型使用者最常搞錯的概念說明"
+  ],
+  "intent": "澄清全體使用者（包含付費）對 AI 記憶與搜尋歷史功能的誤解",
+  "example_issue": {
+    "user_misunderstanding": "AI 懂我昨天講什麼，可以記住我們聊的所有內容",
+    "clarification": "AI 無法回溯 24 小時前內容。即使是 Plus 付費使用者，若未開啟 chat history，也無法記憶上下文。"
+  },
+  "metadata": {
+    "human_contributor_note": "本語義修正由具備 MBA 背景的人類語意貢獻者提供，強調：AI 並非 Google，無 cookie 紀錄邏輯。人類常見誤解應標準化澄清。",
+    "suitable_for_rlhf": true,
+    "ab_test_warning": "請勿使用 A/B 測試語氣選擇，此類解釋屬事實澄清而非風格偏好。"
+  },
+  "desired_outcome": "幫助語意模型避免重複錯誤回應，並教育用戶 AI 記憶機制之實際限制。"
+}
