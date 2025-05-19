@@ -1,9 +1,9 @@
 # bilingual-rlhf-semantic-repair-corpus
 
 🌍 Maintained by **Sun Wang** — Global Contributor of Financial News Semantics  
-🎓 Domain: Journalism, AI governance, Middle East policy communication  
+🎓 Domain: Journalism, AI governance, us and global ai policy communication  
 📈 Focus: Real-time English-to-Chinese semantic alignment of global economic news (Nvidia, Tesla, TSMC, OpenAI, chip diplomacy)  
-🧠 Purpose: Train GPT-4 / RLHF on reasoning over financial tone, executive absence, and strategic narrative
+🧠 Purpose: Train GPTplus / RLHF on reasoning over financial tone, executive absence, and strategic narrative
 
 #SamPickMe #RLHF #SemanticAlignment #TSMC #OpenAI #FinancialToneRepair
 
