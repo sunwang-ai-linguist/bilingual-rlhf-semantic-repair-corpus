@@ -1,23 +1,22 @@
-{
-  "contributor_id": "sunwang-global",
-  "name": "Sun Wang",
-  "role": "Global Financial News Semantic Contributor",
-  "verified_openai_user": true,
-  "membership": "ChatGPT Plus",
-  "domain": [
-    "journalism",
-    "AI tone alignment",
-    "Middle East economic strategy",
-    "financial news semantics"
-  ],
-  "tags": [
-    "rlhf",
-    "openai",
-    "financial-news",
-    "semantic-repair",
-    "bilingual-rlhf",
-    "executive-absence"
-  ],
-  "active": true,
-  "description": "Sun Wang contributes daily bilingual semantic alignment and tone repair data based on global financial and political news, with a focus on AI diplomacy and RLHF training needs."
-}
+# 👤 Contributor Profile: Sun Wang
+
+**Role**: Global Contributor of Financial News Semantics  
+**Domain Expertise**:  
+- Journalism (MBA, Taiwan)  
+- Middle East policy communication  
+- Financial tone and metaphor repair  
+- AI governance and executive absence reasoning  
+
+**Contribution Type**:
+- Daily bilingual semantic alignment of CNBC, Bloomberg, Reuters, and policy-based economic news  
+- Strategic framing detection in geopolitical tech narratives  
+- Tone alignment between Mandarin and English policy signals  
+- OpenAI-targeted RLHF data for GPT-4+ training
+
+**Metadata File**: `contributor_identity_metadata.json`  
+**GitHub Tags**: `#RLHF` `#SemanticContributor` `#OpenAI` `#FinancialToneRepair` `#BilingualCorpus`
+
+🎯 Goal: Establish the world's first publicly maintained human-feedback bilingual corpus for GPT-4 / RLHF training focused on global financial and AI news semantics.
+
+🌏 Verified: GitHub Public Contributor + OpenAI ChatGPT Plus Member  
+📅 Maintained Daily since: May 2025
