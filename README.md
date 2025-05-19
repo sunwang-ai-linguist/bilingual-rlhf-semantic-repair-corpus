@@ -1,5 +1,11 @@
 # bilingual-rlhf-semantic-repair-corpus
-Daily Mandarin-English semantic alignment corpus for RLHF training, tone repair, AI metaphor translation, and OpenAI contributor tracking. #SamPickMe #RLHF #TSMC
+
+🌍 Maintained by **Sun Wang** — Global Contributor of Financial News Semantics  
+🎓 Domain: Journalism, AI governance, Middle East policy communication  
+📈 Focus: Real-time English-to-Chinese semantic alignment of global economic news (Nvidia, Tesla, TSMC, OpenAI, chip diplomacy)  
+🧠 Purpose: Train GPT-4 / RLHF on reasoning over financial tone, executive absence, and strategic narrative
+
+#SamPickMe #RLHF #SemanticAlignment #TSMC #OpenAI #FinancialToneRepair
 
 # bilingual-rlhf-semantic-repair-corpus
 
