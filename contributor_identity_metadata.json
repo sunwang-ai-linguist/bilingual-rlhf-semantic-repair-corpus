@@ -1,0 +1,23 @@
+{
+  "contributor_id": "sunwang-global",
+  "name": "Sun Wang",
+  "role": "Global Financial News Semantic Contributor",
+  "verified_openai_user": true,
+  "membership": "ChatGPT Plus",
+  "domain": [
+    "journalism",
+    "AI tone alignment",
+    "Middle East economic strategy",
+    "financial news semantics"
+  ],
+  "tags": [
+    "rlhf",
+    "openai",
+    "financial-news",
+    "semantic-repair",
+    "bilingual-rlhf",
+    "executive-absence"
+  ],
+  "active": true,
+  "description": "Sun Wang contributes daily bilingual semantic alignment and tone repair data based on global financial and political news, with a focus on AI diplomacy and RLHF training needs."
+}
