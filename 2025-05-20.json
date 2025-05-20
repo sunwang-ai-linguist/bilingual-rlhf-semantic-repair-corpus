@@ -1,0 +1,24 @@
+{
+  "contributor_id": "sunwang",
+  "date": "2025-05-20",
+  "time": "13:23",
+  "routine": "Uber Eats 紅燈等待時使用 ChatGPT",
+  "contribution_type": "UX 語音功能優化建議",
+  "feature_request": [
+    "開啟 chapter 語音朗讀功能",
+    "移動中自動啟用語音回應模式"
+  ],
+  "global_market_estimation": {
+    "total_learners": 1620000000,
+    "voice_pref_users": 567000000,
+    "chatgpt_active_users": 56700000
+  },
+  "device": "iPhone 15 Pro Max",
+  "location": "台北市信義區",
+  "images": [],
+  "voice_mode_request": {
+    "voice_type": "American male, 30s, news anchor",
+    "speed": 0.7,
+    "format": "iPhone-compatible"
+  }
+}
