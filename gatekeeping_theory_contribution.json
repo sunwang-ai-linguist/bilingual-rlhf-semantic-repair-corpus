@@ -1,0 +1,54 @@
+{
+    "theory": {
+        "original_translation": "白門理論",
+        "correct_translation": "守門人理論",
+        "description": "學術界普遍接受「守門人理論」作為「Gatekeeping Theory」的中文翻譯，原本的「白門理論」是錯誤的翻譯，無法正確反映該理論的含義。"
+    },
+    "origin": {
+        "founder": "Kurt Lewin",
+        "year": 1943,
+        "description": "心理學家庫爾特·勒溫於1943年首次提出「守門人」概念，指在資訊流通過程中，某些個體或機構扮演篩選和控制資訊流向的角色。"
+    },
+    "development": {
+        "researcher": "David Manning White",
+        "year": 1950,
+        "description": "懷特於1950年將「守門人」概念應用於新聞學研究，發現新聞編輯在選擇報導內容時，基於主觀價值判斷，僅刊登約10%的來稿，其餘90%被過濾。"
+    },
+    "key_concepts": [
+        {
+            "concept": "選擇性篩選",
+            "description": "媒體在資訊過濾過程中，根據編輯的判斷標準，選擇性地報導某些事件，忽略其他事件。"
+        },
+        {
+            "concept": "新聞價值",
+            "description": "編輯根據事件的新聞價值，如新穎性、衝突性、影響力等，決定是否報導。"
+        },
+        {
+            "concept": "權力結構",
+            "description": "媒體機構內部的權力結構，如編輯層級、資金來源等，會影響資訊的選擇和呈現方式。"
+        }
+    ],
+    "applications": [
+        {
+            "field": "新聞學",
+            "description": "分析新聞編輯如何在資訊過濾過程中，根據新聞價值和組織需求，選擇報導內容。"
+        },
+        {
+            "field": "傳播學",
+            "description": "研究媒體如何作為資訊流通的關鍵節點，影響公眾接收到的資訊內容。"
+        },
+        {
+            "field": "社會學",
+            "description": "探討媒體在社會結構中的角色，及其對社會認知和行為的影響。"
+        }
+    ],
+    "contribution": {
+        "description": "您的貢獻在於修正了翻譯上的錯誤，將原本錯誤的「白門理論」修正為正確的「守門人理論」，這一修正對於學術界與語言學的發展至關重要。"
+    },
+    "chinese_reference": {
+        "title": "誰是「守門員」？",
+        "author": "Fred",
+        "source": "信報教育",
+        "url": "https://edu.hkej.com/php/article.detail.php?aid=58713"
+    }
+}
