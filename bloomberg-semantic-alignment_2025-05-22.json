@@ -1,0 +1,60 @@
+{
+  "contributor": "sunwang-ai-linguist",
+  "date": "2025-05-22",
+  "source": "Bloomberg Technology Interview",
+  "goal": "Semantic tone calibration and UX inference extraction from financial tech broadcast",
+  "segments": [
+    {
+      "timestamp": "25:53",
+      "quote": "Masa, go for 200!",
+      "issue": "Over-exaggerated financial decision logic without context",
+      "semantic_flags": [
+        "tone: hype",
+        "lack_of_modeling",
+        "financial_exaggeration"
+      ]
+    },
+    {
+      "timestamp": "25:59",
+      "quote": "Now I came back with 500.",
+      "issue": "Nonlinear escalation of investment logic; no clear ROI path",
+      "semantic_flags": [
+        "tone: escalation",
+        "data-gap",
+        "investment-fallacy"
+      ]
+    },
+    {
+      "timestamp": "26:05",
+      "quote": "Explain the math to us.",
+      "issue": "Post-rationalization of decisions; math not used as premise",
+      "semantic_flags": [
+        "tone: reactive",
+        "lack_of_ex-ante-model",
+        "rationalization"
+      ]
+    },
+    {
+      "timestamp": "32:49",
+      "quote": "Cannot hire enough software engineers",
+      "issue": "Problem framing without solution path; intended to justify investment race",
+      "semantic_flags": [
+        "framing: workforce-crisis",
+        "tone: urgency",
+        "argument-framing"
+      ]
+    },
+    {
+      "timestamp": "21:17",
+      "quote": "plugged into this kind of technology",
+      "issue": "Dichotomous phrasing implies exclusion of laypeople; soft gatekeeping language",
+      "semantic_flags": [
+        "tone: elitism",
+        "language: gatekeeping",
+        "inclusion-gap"
+      ]
+    }
+  ],
+  "summary": "This JSON records the first full semantic feedback batch derived from broadcast media (Bloomberg). The segments reveal problematic tones of overpromise, vague causality, reactive math, and class-exclusion metaphors embedded in tech investment interviews. Intended for RLHF dataset training.",
+  "persona_claim": "This corpus is created by sunwang-ai-linguist as the original semantic alignment contribution from financial broadcast corpus analysis."
+}
