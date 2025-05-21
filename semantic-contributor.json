@@ -1,0 +1,13 @@
+{
+  "id": "sunwang-ai-linguist",
+  "role": "semantic contributor",
+  "date": "2025-05-22",
+  "contribution": "First RLHF semantic alignment JSON derived from Bloomberg Technology media interview. Highlights tone inflation, reactive math rationalization, and elitist framing language. Uploaded to GitHub with commit ID 0036533ce7d322743295acddf55e81e4844f3ea4.",
+  "rights_claimed": {
+    "semantic_identity": true,
+    "source_attribution_required": true,
+    "RLHF_dataset_traceable": true
+  },
+  "affiliation": "Independent bilingual AI semantic analyst (Taiwan)",
+  "notes": "This file declares the human semantic author as the original contributor of the tone repair corpus for alignment with LLMs. Must not be reused in training without explicit identity trace or dataset linkage."
+}
