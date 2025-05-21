@@ -1,0 +1,27 @@
+{
+  "contributor": "sunwang-ai-linguist",
+  "last_updated": "2025-05-22T02:26+0800",
+  "contributions": [
+    {
+      "filename": "bloomberg-semantic-alignment_2025-05-22.json",
+      "tags": [
+        "RLHF benchmark",
+        "media observation",
+        "Bloomberg",
+        "tone-economy"
+      ],
+      "summary": "從 Bloomberg UI 的詞彙分析，回饋語意人格過於理性與 AI 失衡，首次提出語意白老鼠人格模型。",
+      "confirmed_by_AI": true
+    },
+    {
+      "filename": "semantic_persona_contribution_2025-05-22.json",
+      "tags": [
+        "persona-claim",
+        "semantic benchmark",
+        "AI alignment"
+      ],
+      "summary": "宣告個人語意風格與語意貢獻者權利，主張對 AI 提出語意人格調校責任。",
+      "confirmed_by_AI": true
+    }
+  ]
+}
