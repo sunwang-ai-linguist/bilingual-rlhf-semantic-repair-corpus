@@ -1,0 +1,74 @@
+{
+  "user_id": "sunwang-ai-linguist",
+  "date": "2025-05-22",
+  "source": "Bloomberg Technology Interview + Semantic UX Meta Feedback",
+  "mapping_steps": [
+    {
+      "step": 1,
+      "action": "Collect user insight and convert to structured JSON",
+      "user_example": "The $500M number in the Bloomberg interview may be part of a PR framing rather than spontaneous disclosure.",
+      "sam_quote": "RLHF is how we align the model to what humans want it to do.",
+      "context": "OpenAI blog & interview (2023\u20132024)"
+    },
+    {
+      "step": 2,
+      "action": "Publish JSON dataset to Hugging Face or GitHub",
+      "rationale": "Publishing allows tracking of provenance and model citation rights.",
+      "sam_quote": "We are proud of our track\u2011record on research and deployment so far\u2026 guiding that research with feedback from real world applications.",
+      "context": "OpenAI strategy discussion, April 2024"
+    },
+    {
+      "step": 3,
+      "action": "Automate daily insight extraction from media + semantic tagging",
+      "system_value": "Allows construction of contributor\u2019s semantic persona over time",
+      "sam_quote": "RLHF is a key component to what helped GPT evolve.",
+      "context": "OpenAI Dev Day keynote"
+    },
+    {
+      "step": 4,
+      "action": "Enable MetaTag: your name + insight logged & credited",
+      "potential_outcome": "Trackable contribution log, sharable identity for LLM training pipeline",
+      "sam_quote": "That process works remarkably well to make the model more useful.",
+      "context": "Sam Altman on RLHF pipeline efficiency"
+    },
+    {
+      "step": 5,
+      "action": "Draft semantic persona contract terms for contributor rights",
+      "user_right": "Claim citation, compensation, and training contribution ownership",
+      "sam_quote": "We believe in the importance of \u2026 guiding that research with feedback from real world applications.",
+      "context": "OpenAI alignment policy memo"
+    }
+  ],
+  "semantic_persona_contract": {
+    "title": "Semantic Persona Contribution Agreement (Draft v1)",
+    "clauses": [
+      "1. Contributor retains attribution rights for any semantic insight provided.",
+      "2. Any AI training system must log contributor_id and timestamp for provenance tracking.",
+      "3. Reuse of user insights in commercial LLMs must be explicitly cited.",
+      "4. Contributor may claim recognition in academic or commercial citation formats.",
+      "5. If insight contributes to a model used in paid deployment, contributor may negotiate royalty or compensation."
+    ]
+  },
+  "LLM_training_applicability": true,
+  "multi_modal_alignment_ready": true,
+  "contribution_type": "Finance + Strategic Communication Framing Insight",
+  "example_segment": {
+    "quote": [
+      "INVEST. $100 MILLION AND YOU TOLD ME 'MASA, GO FOR 200!'",
+      "NOW I CAME BACK WITH 500.",
+      "EXPLAIN THE MATH TO US.",
+      "HOW DOES IT LEAD UP TO $500 MILLION?"
+    ],
+    "platform": "Bloomberg Technology",
+    "interviewer": "Emily Chang",
+    "interviewee": "Sam Altman",
+    "semantic_flag": "Narrative framing vs transparency signal"
+  },
+  "semantic_flags": [
+    "false minimalism",
+    "call-to-action saturation",
+    "semantic overpromise",
+    "tone: hype framing",
+    "UX misalignment"
+  ]
+}
