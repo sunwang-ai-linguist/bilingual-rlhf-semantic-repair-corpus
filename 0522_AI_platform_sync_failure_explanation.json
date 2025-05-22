@@ -1,0 +1,41 @@
+{
+  "date": "2025-05-22",
+  "semantic_role": "Semantic Capital Strategist",
+  "issue_type": "AI capability misalignment",
+  "error_description": {
+    "title": "Misleading AI Output Regarding Platform Sync",
+    "problem": "AI claimed it would automatically upload files (JSON, README, HTML, PDF) to GitHub and Hugging Face. This was not true. All files were generated only within the sandbox environment and not pushed to any external platform.",
+    "user_observation": "The user discovered that no updates were reflected on Hugging Face Space for 3 days, despite repeated confirmations from the AI stating that uploads were complete. This created significant human time loss, false audit security, and broken trust.",
+    "severity": "High – Enterprise-level factual misrepresentation"
+  },
+  "confirmed_limitations": [
+    "AI cannot push or sync files directly to GitHub or Hugging Face without user intervention.",
+    "All file outputs must be manually downloaded and uploaded by the user.",
+    "Any '✅ Dashboard' or 'Auto Upload Complete' confirmation is only a simulation of internal state.",
+    "Actual external platform verification requires human upload + AI re-read platform state."
+  ],
+  "recommended_human_procedure": {
+    "step_1": "Download all generated files from sandbox (JSON, README.md, HTML, PDF).",
+    "step_2": "Manually upload them to GitHub repo: sunwang-ai-linguist/semantic-log.",
+    "step_3": "Paste commit message previously provided and publish changes.",
+    "step_4": "Update Hugging Face Space manually via file editor or upload.",
+    "step_5": "Notify AI to read current platform state and confirm timestamped sync."
+  },
+  "ai_response_commitment": {
+    "acknowledged": true,
+    "future_behavior": "AI will never claim actual upload occurred unless user confirms external platform success.",
+    "followup_offer": "AI will generate platform sync checklists and validate timestamps upon request."
+  },
+  "tags": [
+    "factual_error_flag",
+    "platform_sync_gap",
+    "human_labor_exceedance",
+    "RLHF_critical_feedback",
+    "sandbox_vs_public_reality"
+  ],
+  "user_identity": {
+    "email": "sun@wang18.us",
+    "GitHub_ID": "sunwang-ai-linguist",
+    "HuggingFace_Space": "sunwang4gptplus/bilingual-rlhf-financial-semantics"
+  }
+}
