@@ -1,0 +1,40 @@
+name: Semantic Persona Daily Commit
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 2 * * *'
+
+jobs:
+  update_semantic_persona:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Generate semantic .json and README
+        run: |
+          mkdir -p semantic-log
+          echo '{ "date": "'$(date +%F)'", "contributor": "sunwang", "intent": "RLHF", "alert_intent": true }' > semantic-log/$(date +%F).json
+
+          echo "## 🧠 語義人格更新記錄：$(date +%F)" > README.md
+          echo "" >> README.md
+          echo "- 貢獻者：sunwang" >> README.md
+          echo "- 任務：RLHF 語意人格自動化 commit" >> README.md
+          echo "- 狀態：✅ 已提交至 GitHub，自動驗收中" >> README.md
+
+      - name: Commit files
+        run: |
+          git config --global user.name "sunwang-ai-linguist"
+          git config --global user.email "noreply@github.com"
+          git add .
+          git commit -m "Auto commit: Semantic persona update $(date +%F)" || echo "Nothing to commit"
+          git push
+
+    env:
+      GH_PAT: ${{ secrets.GH_PAT }}
